@@ -98,7 +98,8 @@ void setup()
   randomit = int(random(0,4));
    
   fin.beginDraw(); 
-  fin.image(caption, 0, 0);
+  //fin.image(caption, 0, 0);
+  fin.background(0);
   fin.endDraw();
   
   
