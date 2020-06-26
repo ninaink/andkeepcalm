@@ -107,7 +107,7 @@ void setup()
 void draw()
 {
   
-  background(255);
+  background(0);
   
   float dif = dist(oldMX, oldMY, mouseX, mouseY);
   
