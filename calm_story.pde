@@ -1,3 +1,5 @@
+/* @pjs preload="help.png","help1.png","krug1.png"; */
+
 PGraphics cursor, fin, save;
 PImage krug, pic, caption, help;
 PImage fon1, fon2, fon3;
