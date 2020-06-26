@@ -99,7 +99,6 @@ void setup()
    
   fin.beginDraw(); 
   fin.image(caption, 0, 0);
-  fin.background(0);
   fin.endDraw();
   
   
